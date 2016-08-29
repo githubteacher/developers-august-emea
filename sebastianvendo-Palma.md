@@ -11,4 +11,6 @@
 
 ### Attractions for Locals
 
+-Palma
+
 xiscapericas doesn't like to call it Palma de Mallorca, she says its called just Palma.
