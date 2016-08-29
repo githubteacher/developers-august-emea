@@ -6,5 +6,7 @@
 
 - Western Wall 
 - Old City 
+- bla 
+- bla
 
 ### Attractions for Locals
