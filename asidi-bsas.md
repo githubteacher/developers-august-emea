@@ -2,13 +2,15 @@
 
 ### Restaurants
 
-- McDonalds
+- Guerrin Pizza
+- Imperio Pizza
 
 
 ### Attractions for Tourists
 
 - Tango
 - Barbecue
+- Reserva ecológica
 
 ### Attractions for Locals
 
