@@ -7,6 +7,7 @@
 - Sagrada Familia
 - Parc Guell
 - Casa Batllo
+- Port Olimpic
 
 ### Clubs
 - Razzmatazz
