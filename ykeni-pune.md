@@ -5,6 +5,8 @@
 ### Attractions for Tourists
 
 - Shaniwarwada
-- Phoenix maill
+- Phoenix mall
 
 ### Attractions for Locals
+
+- Gardens
