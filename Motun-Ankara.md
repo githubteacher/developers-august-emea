@@ -8,3 +8,5 @@
 - still nothing lol
 
 ### Attractions for Locals
+
+- Anıtkabir
