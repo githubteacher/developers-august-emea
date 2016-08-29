@@ -8,3 +8,4 @@
 - Phoenix Mall
 
 ### Attractions for Local
+- Amanora Mall
