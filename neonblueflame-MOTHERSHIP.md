@@ -1,7 +1,10 @@
 # MOTHERSHIP
 
-### Restaurants
-
+### Food (on the table MOTHERSHIP landed)
+- :pizza:
+- Crepes
+- Milk tea
+- :sushi:
 
 ### Attractions for tourists
 
