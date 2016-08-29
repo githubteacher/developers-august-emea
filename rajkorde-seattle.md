@@ -5,7 +5,7 @@
 
 ### Attractions for Tourists
 - Space Needle
-- EMP
+- EMP (Experience Music Project museum)
 
 ### Attractions for Locals
 - Georgetown
