@@ -1,4 +1,4 @@
-# Palma
+# Palma de Mallorca
 
 ### Restaurants
 
@@ -9,4 +9,4 @@
 
 ### Attractions for Locals
 
-
+xiscapericas doesn't like to call it Palma de Mallorca, she says its called just Palma.
