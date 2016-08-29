@@ -4,4 +4,3 @@
 ### Who Sucks more
 - [ ] Kim K
 - [ ] Taylor Swift
-### More Blabber
