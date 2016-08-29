@@ -8,5 +8,8 @@
 - Parc Guell
 - Casa Batllo
 
-### Attractions for Locals
+### Clubs
+- Razzmatazz
 
+### Beaches
+- Castelldefels 
