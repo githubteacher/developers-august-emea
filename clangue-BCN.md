@@ -6,6 +6,7 @@
 - Sagrada Familia
 - Tibidabo
 - Casa Battlo
+- Bar Bagdad
 
 ### Attractions for Locals
 - PorSants
