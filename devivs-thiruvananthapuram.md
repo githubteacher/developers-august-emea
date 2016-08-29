@@ -12,3 +12,7 @@
 
 
 ### Attractions for locals
+
+  - Parks
+  - Hotels
+  - Markets
