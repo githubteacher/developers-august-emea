@@ -11,3 +11,7 @@
 ### Atractions for locals
 
 - Go to the beach
+
+### Adding a new section just to see how to work in a new branch
+
+- and delete it later on
