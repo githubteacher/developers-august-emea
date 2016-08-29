@@ -1,6 +1,7 @@
 # Pune, India
 
 ### Restaurants
+- Yana Sizzlers
 
 ### Attractions for Tourists
 
