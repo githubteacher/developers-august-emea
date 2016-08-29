@@ -2,7 +2,7 @@
 
 
 ### Restaurants
-
+- Hong Xing
 
 ### Attactions for Tourists
 
@@ -10,3 +10,5 @@
 - Wenshu Temple
 
 ### Attaction for Locals
+
+- Dujiang
