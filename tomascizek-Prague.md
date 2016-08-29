@@ -1,1 +1,3 @@
 tomascizek-Prague.md
+
+fixed
