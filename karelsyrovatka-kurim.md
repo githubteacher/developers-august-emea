@@ -2,10 +2,13 @@
 
 ### Restaurants
 
+- New restaurant Zelena kobra.
+
 ### Attactions for Tourists
 
-- Nothing
+- Zoo 15 km  
 
 ### Attractions for Locals
 
 - Jail
+
