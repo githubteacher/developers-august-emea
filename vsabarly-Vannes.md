@@ -7,7 +7,8 @@
 
 ### Attractions for tourists
 
-- Cathedral
 - Shopping
 
 ### Attractions for locals
+
+- new attraction
