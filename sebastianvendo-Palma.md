@@ -2,6 +2,8 @@
 
 ### Restaurants
 
+- Carrer Fabrica in Santa Catalina has a street full of Restaurants
+
 ### Attractions for Tourists
 
 - Marineland
