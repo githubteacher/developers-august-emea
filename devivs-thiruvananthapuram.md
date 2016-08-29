@@ -2,6 +2,9 @@
 
 ### Restaurants
 
+  -  Villa Maya
+  -  Muscat Hotel
+
 ### Attractions for tourists
     
   -  Kovalam
