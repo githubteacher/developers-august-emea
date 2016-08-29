@@ -15,3 +15,5 @@
 ### Adding a new section just to see how to work in a new branch
 
 - and delete it later on
+- Adding another line
+- And another one
