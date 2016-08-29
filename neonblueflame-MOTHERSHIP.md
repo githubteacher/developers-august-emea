@@ -9,3 +9,6 @@
 
 
 ### Attractions for locals
+
+- Unix
+- And Windows, too
