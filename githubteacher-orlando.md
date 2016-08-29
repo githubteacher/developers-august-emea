@@ -3,6 +3,8 @@
 ### Restaurants
 
 - Kobe Japanese Steakhouse
+- The Pharmacy
+- Bikurri Sushi
 
 ### Attractions for Tourists
 
@@ -13,3 +15,4 @@
 
 - Ten 10 Brewing
 - Orlando Brewing
+- Gatorland :crocodile:
