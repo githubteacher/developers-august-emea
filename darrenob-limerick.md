@@ -7,3 +7,4 @@
 - pubs
 ### Attractions for Locals
 - pubs
+- the river
