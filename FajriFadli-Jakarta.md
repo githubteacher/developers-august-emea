@@ -1,10 +1,14 @@
 # Jakarta
 
 ### Restaurants
-Fast foods
+-Fast foods
+-Local traditional food
 
 ### Attraction for Tourists
-Traffic jam
+-Traffic jam
+-National History Museum
+-National Monument (Monas)
 
 ### Attraction for Local
-Traffic jam
+-Traffic jam
+-Local beach of Ancol
