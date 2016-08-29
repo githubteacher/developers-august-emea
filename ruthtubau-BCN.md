@@ -2,6 +2,8 @@
 
 ### Restaurants
 - PorSant
+- Antigua
+- Divinus
 
 ### Attractions for Tourists
 
@@ -11,7 +13,8 @@
 - Port Olimpic
 
 ### Clubs
-- Razzmatazz
+- Razzmatazz :crocodile:
 
 ### Beaches
 - Castelldefels 
+- Llevant
