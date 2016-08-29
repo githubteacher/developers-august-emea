@@ -1,6 +1,7 @@
 # Barcelona, Catalunya
 
 ### Restaurants
+- PorSant
 
 ### Attractions for Tourists
 
