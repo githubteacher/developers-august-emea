@@ -2,6 +2,8 @@
 
 ### Restaurants
 - Moodies
+- Pete's Pizza
+- Monks
 
 ### Attractions for Tourists
 - Lake Michigan
