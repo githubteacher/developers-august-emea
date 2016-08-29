@@ -8,3 +8,4 @@
 ### Attractions for Locals
 - pubs
 - the river
+- my house
