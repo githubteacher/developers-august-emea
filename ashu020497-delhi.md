@@ -4,3 +4,4 @@
 ### Who Sucks more
 - [ ] Kim K
 - [ ] Taylor Swift
+- [ ] Kanye West
