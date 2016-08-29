@@ -8,3 +8,5 @@
 - Visit the old center twon & the cathedral
 
 ### Atractions for locals
+
+- Go to the beach
