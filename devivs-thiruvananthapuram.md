@@ -16,3 +16,5 @@
   - Parks
   - Hotels
   - Markets
+  - Beaches
+  - Temples
