@@ -6,6 +6,7 @@
 
 - Go to the beach and coastine
 - Visit the old center twon & the cathedral
+- Go to Zahara de los Atunes
 
 ### Atractions for locals
 
