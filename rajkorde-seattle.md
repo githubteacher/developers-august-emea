@@ -2,6 +2,8 @@
 
 ### Restaurants
 - Staple and Fancy
+- Carmine Intermezzo
+- Midori
 
 ### Attractions for Tourists
 - Space Needle
