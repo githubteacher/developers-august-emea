@@ -8,3 +8,6 @@
 - National Palace Museum
 
 ### Things to do
+
+- Kenting Beach
+- Hualian
