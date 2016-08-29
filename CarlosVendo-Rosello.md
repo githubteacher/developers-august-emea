@@ -3,6 +3,9 @@
 
 ### Restaurants
 
+- Porsant
+- Ginza
+
 
 ### Attractions for Tourists
 
