@@ -14,4 +14,5 @@
 
 ### Things not to do
 - Swim with sharks
+- Swim with crocodiles
 
