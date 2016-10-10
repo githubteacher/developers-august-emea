@@ -1,15 +1,13 @@
 # LA, CA
 
 ### Restaurants
-- Where there is good food
+- Mexican food
 
 ### Attractions for Tourists
-
 - Disney World
 - Universal Studios
+- Santa Monica
 
 ### Attractions for Locals
-
-- Anywhere where people are smiling
 - Beaches
 - Hollywood
