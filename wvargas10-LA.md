@@ -1,7 +1,8 @@
 # LA, CA
 
 ### Restaurant
-- Where there is good food
+- Seafood
+- Fish Taco
 
 ### Attractions for Tourists
 
