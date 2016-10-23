@@ -1,6 +1,6 @@
 # LA, CA
 
-### Restaurants
+### Restaurant
 - Where there is good food
 
 ### Attractions for Tourists
