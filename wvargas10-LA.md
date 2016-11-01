@@ -3,6 +3,7 @@
 ### Restaurant
 - Seafood
 - Fish Taco
+- Sushi
 
 ### Attractions for Tourists
 
