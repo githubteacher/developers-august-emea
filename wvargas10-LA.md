@@ -1,4 +1,4 @@
-# LA, California
+# Los Angeles, California
 
 ### Restaurant
 - Seafood
